@@ -1,0 +1,41 @@
+.search{height:30px;line-height:28px;position:relative;margin-bottom:13px; margin-top:15px;}.searchform{box-shadow:0 0 4px #EEEEEE;_margin-top:-14px;}.s{-moz-transition:all 0.3s ease 0s;background-color:#f0f2f5;border:1px solid #eaeaea;color:#888;float:left;font-size:12px;height:19px;line-height:19px;padding:4px 5px;width:235px;}.searchsubmit{border:1px solid #eaeaea;cursor:pointer;display:inline-block;float:left;height:29px;line-height:27px;margin-left:-1px;padding:0 12px;text-align:center;width:54px;}
+
+
+.page_navi{height:36px;line-height:36px;text-align:right; margin:12px;}.page_navi a{border:1px solid #CCC;border-radius:13px;color:#888;margin:2px;padding:3px 9px;text-decoration:none;}.page_navi a:hover,.page_navi a.current{border:1px solid #FA983F;color:#F53B24;}
+/*主要框架*/
+.contents {width:995px;margin:0 auto;position:relative;}
+.mains {width:734px;overflow:hidden; float:left}
+.sidebar {width:270px;background:#fff;line-height:25px;padding:5px;margin-bottom:10px;overflow:hidden; float:right}
+
+.top_header {width:100%;background-color:#fafafa;line-height:30px; font-size:12px;}
+.headers {height:110px;width:100%;color:#ccc;background:url(images/top_mini.jpg) repeat-x 0 100%;border-top:1px #eaeaea solid;}
+.menus {width:100%;background:url(sean_img/top_bgs.jpg) repeat-x left bottom #fff;color:#ccc;line-height:40px;height:39px;}
+
+
+
+.pager {width:694px;overflow:hidden;white-space:nowrap;padding:10px;}
+
+/*顶部菜单区*/
+.top_header ul {float:right;text-align:right;}
+.top_header ul li {padding: 0 10px;display: inline;background: url(sean_img/bg_separator.gif) no-repeat right 4px;}
+.top_header span{ padding-left:5px;display: inline;}
+/*博客介绍，热门搜索，搜索框，搜索框控件及按钮*/
+.blog_sub {width:315px;height:70px;line-height:22px;background:url(sean_img/top_middle.png) 0 0 no-repeat;position:absolute;left:245px;top:17px;padding:15px 20px 0 20px;line-height:22px;overflow:hidden; font-size:12px;}
+
+
+.pds_right {width:330px;position: absolute;right:0;top:30px;}
+.pds_right img{width:330px; height:60px;}
+/*侧边搜索*/
+
+/*网站logo*/
+.logo {position:absolute;left:0;top:15px;width:220px;height:110px;background:url(sean_img/logo.png) 0 0 no-repeat;}
+
+/*主菜单导航*/
+.menus span#mood {float:right;overflow:hidden;white-space:nowrap;color:#333;padding-left:15px;}
+.menus ul li {float:left;list-style:none; font-size:13px;}
+.menus li ul{ display:none}
+
+.menus li.log_first {float:left;list-style:none;border:0;}
+.menus ul li a {text-decoration:none;text-align:center; color: #FCFCFC;padding:10px 15px;}
+.menus ul li a:hover {text-decoration:none;background:#00395a;}
+
