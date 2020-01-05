@@ -57,7 +57,7 @@ a:hover,a:active							{ color:#85B200; }
 .mainTable									{ width:100%; }	
 /* -----------------------------------------main.labels-------------------------------------- */
 .labels										{ width:199px; overflow:hidden; padding:0 0 20px 20px; vertical-align:top; }
-.labels h2									{ width:170px; height:37px; background:url("../images/layout/about_leftLabel_title.png") no-repeat; margin:0 auto; text-indent:30px; color:#fff; font-size:14px; font-weight:bold; line-height:30px; }
+.labels h2									{ width:170px; height:37px; background:url("../images/layout/about_leftlabel_title.png") no-repeat; margin:0 auto; text-indent:30px; color:#fff; font-size:14px; font-weight:bold; line-height:30px; }
 .labels ul									{ padding:0 0 10px 0; width:170px; margin:0 auto; }
 .labels ul li ul							{ padding:0; background:none; }
 .labels ul li span							{ display:block; height:40px; }
@@ -65,7 +65,7 @@ a:hover,a:active							{ color:#85B200; }
 .labels ul li a:visited						{ display:block; padding:0 24px; height:40px; line-height:40px; vertical-align:top; letter-spacing:2px; text-align:left; font-size:14px; font-weight:bold; cursor:pointer; overflow:hidden; color:#333; }
 /* -----------------------------------------main.content------------------------------------- */
 .content									{ padding:0 20px 20px 20px; vertical-align:top; }
-.path										{ width:768px; height:33px; line-height:33px; background:url("../images/layout/articleRightBody_topBox_bg.png") no-repeat; margin:0px auto 10px auto; position:relative; }
+.path										{ width:768px; height:33px; line-height:33px; background:url("../images/layout/articlerightbody_topbox_bg.png") no-repeat; margin:0px auto 10px auto; position:relative; }
 .pathContent 								{ position:absolute; left:33px; top:0; color:#333; font-size:14px; }
 .pathSearch 								{ position:absolute; right:3px; top:4px; width:264px; height:20px; text-align:left; }
 .pathSearch input[type="text"],
