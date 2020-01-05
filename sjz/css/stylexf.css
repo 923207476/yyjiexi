@@ -1,0 +1,36 @@
+/*kf*/
+#box {width:117px; height:auto; background:#fff; position:fixed; z-index:9999; top:25%;right:0px; border-radius:5px 0 0 5px;}
+
+#box .title{display:inline-block; width:33px;height:148px;position: absolute;left:-33px; top:180px; cursor: pointer; background:url(http://www.js-css.cn/jscode/onlineservice/onlineservice18/images/title.png) no-repeat; _background:url(http://www.js-css.cn/jscode/onlineservice/onlineservice18/images/title.gif) no-repeat;}
+#box .box-right{width:119px; height:auto; overflow:hidden; position:absolute; left:0px; top:0px;}
+#box .csimg{display:inline-block; }
+#box .main{width:117px; height:auto; overflow:hidden; background:#fff; border:solid #ddd 1px; border-right:solid #ddd 1px; }
+#box .info{display:block; width:115px; height:27px; line-height:27px; margin:0px auto; background:url(http://www.js-css.cn/jscode/onlineservice/onlineservice18/images/top_1.png) no-repeat; font-size:14px;color:#555;}
+#box .info i{ background:url(http://www.js-css.cn/jscode/onlineservice/onlineservice18/images/sprite.png) no-repeat;}
+#box .info .i_1{display:inline-block; width:4px; height:7px; background-position:0px -8px; float:left; margin:11px 10px 0px 11px;}
+#box .info .i_2{display:inline-block; width:7px; height:4px; background-position:0px 0px; float:left; margin:11px 10px 0px 11px;}
+#box .info span{display:inline-block;float:left;}
+#box .info_1{border-top:solid #d0d0d0 1px; border-bottom:solid #d0d0d0 1px;}
+#box .main .kf_dh{width:115px; height:33px; display:inline-block; background:#e0e0df; line-height:33px; padding-left:5px; font-weight:bold; color:#1482B9;}
+
+#box .main .kf_dh .kf_right{ width:15px; height:15px; line-height:12px; color:#FFF; margin-right:10px; margin-top:8px; float:right; display:inline-block; text-align:center; cursor:pointer;}
+#box .main ul{width:115px; height:auto; overflow:hidden; margin:0px auto; padding-bottom:10px;}
+#box .main .kf_ul_1{  margin-top:1px; background:#FFF; margin-bottom:0px; padding-left:18px;}
+#box .main .kf_ul_1 img{ border:0px;}
+#box .main ul li{width:105px; height:23px; margin:0px auto; padding-top:7px; font-size:12px; color:#555;}
+#box .main ul li a{display:block; width:105px; height:23px; line-height:23px; font-size:12px; color:#555;}
+#box .main .kf_ul_1 a .kf_qq{ width:23px; height:23px; display:inline-block; background:url(http://www.js-css.cn/jscode/onlineservice/onlineservice18/images/minqq.jpg) no-repeat; overflow:hidden; margin-bottom:-7px;}
+#box .main .kf_ul_1 .salelist{ border-top:1px solid #666; width:82px; padding-top:15px; }
+#box .main .kf_ul_1 .salelist a{ height:25px; line-height:25px;}
+#box .main .kf_ul_1 .slaetit{ font-weight:bold; color:#555; margin-top:5px; padding-left:10px; font-size:14px; }
+
+#main_ul{width:108px; height:auto; overflow:hidden; margin:0px auto; background:#fff;}
+#main_ul li{width:108px; height:20px; line-height:20px; padding-top:0px !important; text-align:center; margin-top:5px !important;}
+#main_ul .main_li1 a{ background:#189dde !important; color:#FFF !important;border-radius: 3px;text-indent:0em !important;}
+#main_ul .main_li2 a{ background:#ed9864 !important; color:#FFF !important;border-radius: 3px;text-indent:0em !important;}
+#main_ul .main_li3 a{ background:#e27777 !important; color:#FFF !important;border-radius: 3px;text-indent:0em !important;}
+#main_ul .main_li4 a{ background:#72cd75 !important; color:#FFF !important;border-radius: 3px;text-indent:0em !important;}
+#box .box-bot{width:117px; height:auto; overflow:hidden;  padding-bottom:5px; padding-top:5px; }
+#box .box-bot_tip{width:117px; height:auto; overflow:hidden;  padding-bottom:5px; padding-top:0px; padding-left:8px;}
+#box .wx{display:block; width:117px; height:113px; overflow:hidden; margin:0px auto;}
+#box .box-bot span{display:block; width: 117px; height:15px; line-height:15px; overflow:hidden; font-size:14px; color:#555; text-align:center; padding-top:6px;}

@@ -1,0 +1,56 @@
+.mainWrap									{ background:#E9E9E9 !important; }
+	.serviceCenter								{ margin: 0px auto; background: url("../images/support/support-index-title.jpg") no-repeat; }
+	.serviceCenter .searchBox					{ padding: 130px 0px 0px 237px; }
+	.serviceCenter .searchBox .searchBoxTitle	{ background: url("../images/support/support-search-title-icon.png") no-repeat; height: 22px; line-height: 22px; text-indent: 30px; font-size: 14px; font-weight: bold; color: #666; margin-bottom: 15px; }
+	.serviceCenter .searchBox .searchBoxInput	{ background: url("../images/support/support-search-input.png") no-repeat; width: 523px; height: 39px; border: none; font-size: 14px; font-weight: bold; color: #217CA9; line-height: 39px; padding: 0px 10px; margin-right: 6px; vertical-align: middle; }
+	.serviceCenter .searchBox .searchBoxButton	{ background: url("../images/support/support-search-button.png") 0px -39px no-repeat; width: 40px; height: 38px; border: none; text-indent: -9999px; cursor: pointer; vertical-align: middle; }
+	.serviceCenter .searchBox .searchBoxButton:hover { background-position: 0px 0px; }
+	.serviceCenter .guideBox					{ margin-top: 30px; margin-bottom: 30px; }
+	.serviceCenter .guideBoxTitle				{ background: url("../images/support/support-guide-title-icon.png") no-repeat; height: 16px; line-height: 16px; text-indent: 30px; font-size: 14px; font-weight: bold; color: #666; margin-bottom: 20px; margin-left: 238px; }
+	.serviceCenter .guideBoxTab					{ background: url("../images/support/support-guide-top.png") bottom no-repeat; width: 906px; height: 60px; margin: 0px auto; position: relative; }
+	.serviceCenter .guideBoxTab ul				{ position: absolute; left: 188px; top: 0; }
+	.serviceCenter .guideBoxTab ul li			{ float: left; width: 126px; height: 35px; line-height: 32px; font-size: 14px; font-weight: bold; text-align: center; margin-right: 8px; }
+	.serviceCenter .guideBoxTab ul li a			{ display: block; background: url("../images/support/support-guide-tab.png") no-repeat; }
+	.serviceCenter .guideBoxTab ul li a:hover	{ background: url("../images/support/support-guide-tab-hover.png") no-repeat; }
+	.serviceCenter .guideBoxTab ul li a.selected { background: url("../images/support/support-guide-tab-active.png") no-repeat; }
+	.serviceCenter .guideBoxCenter				{ background: url("../images/support/support-guide-center.png") repeat-y; width: 906px; margin: 0px auto; overflow: auto; }
+	.serviceCenter .guideBoxBottom				{ background: url("../images/support/support-guide-bottom.png") no-repeat; width: 906px; height: 10px; margin: 0px auto; }
+	.guideBoxContent							{ width: 846px; margin: 0px auto 30px auto; display: block; }
+	.guideBoxContent h1							{ font-size: 12px; font-weight: bold; line-height: 25px; }
+	.guideBoxContent ul.faqList					{ margin: 5px 24px 20px 24px; }
+	.guideBoxContent ul.faqList li				{ float: left; width: 250px; margin: 5px; list-style: square inside; }
+	.guideBoxContent p							{ font-size: 12px; text-indent: 24px; }
+	.guideBoxContent dl							{ border-bottom: #ccc 1px dotted; padding: 5px 0px; margin: 5px 24px; }
+	.guideBoxContent dl dt						{ margin-bottom: 1px; font-weight: bold; }
+	.guideBoxContent dl dd						{ margin-left: 0; }
+	.guideBoxContent dl:hover					{ background: #0099FF; font-weight: bold; padding: 5px 10px; border-bottom: #0099FF 1px dotted; }
+	.guideBoxContent dl:hover dt				{ color: #fff; }
+	.guideBoxContent dl:hover dd				{ color: #FF6; }
+	.guideBoxContent dl:hover dd a				{ color: #fff; text-decoration: underline; }
+	.serviceCenter .Banner						{ height: 196px; overflow: hidden; }
+	.serviceCenter .Banner h1,
+	.serviceCenter .Banner h2,
+	.serviceCenter .Banner .telNum,
+	.serviceCenter .Banner .workingHours		{ text-indent: -9999px; overflow: hidden; }
+	.ServiceCenterMain							{ margin: 0 0 0 233px; width: 675px; }
+	.ServiceCenterMain .ServiceItem				{ margin: 42px 0 0 0; overflow: hidden; zoom: 1; }
+	.ServiceCenterMain .ServiceItem li			{ float: left; margin: 0 33px 0 0; display: inline; }
+	.ServiceCenterMain .ServiceItem li a		{ margin: 0; display: block; width: 174px; height: 57px; text-indent: -9999px; background: url("../images/support/ServiceItemBg.png") no-repeat; overflow: hidden; }
+	.ServiceCenterMain .ServiceItem li a.bbs	{ background-position: 0 -57px; }
+	.ServiceCenterMain .ServiceItem li a.doc	{ background-position: 0 -114px; }
+	.ServiceCenterMain .contact					{ margin: 35px 0 0 0; color: #666; line-height: 1.8em; font-size: 15px; font-weight: bold; font-family: "Microsoft YaHei", "simsun", Arial, Helvetica, sans-serif; }
+	.ServiceCenterMain .line					{ margin: 27px 0; width: 675px; height: 2px; background: url("../images/support/line.png") repeat-x; overflow: hidden; }
+	.ServiceCenterMain .guestbook				{ margin-bottom: 30px; }
+	.ServiceCenterMain .guestbook .Title		{ margin: 0 0 18px; width: 139px; height: 36px; text-indent: -999px; background: url("../images/support/guestbookTitle.png") no-repeat; overflow: hidden; }
+	.ServiceCenterMain .guestbookBox			{ border: 1px solid #ccc; background: #FFF url("../images/support/BoxBg.png") repeat-x; overflow: hidden; }
+	.ServiceCenterMain .guestbookBox table		{ margin: 20px; color: #333; font-size: 13px; }
+	.ServiceCenterMain .guestbookBox th,
+	.ServiceCenterMain .guestbookBox td			{ padding-bottom: 18px; line-height: 25px; }
+	.ServiceCenterMain .guestbookBox td			{ padding: 0 0 18px 10px; }
+	.ServiceCenterMain .guestbookBox th			{ width: 115px; text-align: right; vertical-align: top; }
+	.ServiceCenterMain .guestbookBox tr.bottom th { text-align: left; padding: 0 0 0 125px; }
+	.ServiceCenterMain .guestbookBox .inputText { padding: 2px; width: 210px; height: 19px; line-height: 19px; border: 1px solid #ccc; vertical-align: middle; color: #666; background: #FFF; }
+	.ServiceCenterMain .guestbookBox .valiCode	{ padding: 2px; width: 120px; height: 19px; line-height: 19px; border: 1px solid #ccc; vertical-align: middle; color: #666; background: #FFF; }
+	.ServiceCenterMain .guestbookBox .psText	{ margin: 0 0 0 20px; color: #8C8C8C; }
+	.ServiceCenterMain .guestbookBox textarea	{ padding: 3px; width: 490px; height: 168px; border: 1px solid #ccc; color: #666; font-size: 12px; line-height: 1.3em; background: #FFF; }
+	.ServiceCenterMain .guestbookBox input.submit { width: 110px; height: 29px; color: #FFF; font-weight: bold; border: 0; cursor: pointer; background: url("../images/support/submit.png") no-repeat; overflow: hidden; }
